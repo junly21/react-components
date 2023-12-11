@@ -1,0 +1,11 @@
+.Text--size-small {
+  font-size: 12px;
+}
+
+.Text--size-normal {
+  font-size: 30px;
+}
+
+.Text--size-large {
+  font-size: 60px;
+}
